@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+.header{
+background-image: url(./images/photo-1558981403-c5f9899a28bc.jpeg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh;
+;
+}
+.a{
+    text-align: center;
+    p{
+        font-size: medium;
+    }
+    
+}
+/* .m{
+    background-color:#98dfd6;
+    align-items: center;
+} */
+.k{
+    text-align:center;
+    font-size:x-large;
+    font-weight: 800;
+  
+}
+#signup{
+  font-style: italic; 
+  font-size: xx-large; 
+  font-weight: bolder;
+  color: rgb(125, 47, 188);
+  text-align:center;
+}
+.sign
+{
+background-color:#787878;
+height: 280px;
+width: 200px;
+}
